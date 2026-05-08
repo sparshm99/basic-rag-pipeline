@@ -29,7 +29,7 @@ marshmallow==3.26.2
 multidict==6.7.1
 mypy_extensions==1.1.0
 numpy==2.4.4
-openai==2.34.0
+langchain-google-genai
 orjson==3.11.9
 packaging==26.2
 propcache==0.4.1
